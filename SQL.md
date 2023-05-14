@@ -1,8 +1,4 @@
-# Personnel Property Equipment System v1.0 has SQL injection
-
 BUG_Author: LeoZhangCA
-
-vendors: https://www.sourcecodester.com/php/11255/personel-property-equipment-system.html
 
 Vulnerability File: /PPES/admin/returned_reuse_form.php
 
